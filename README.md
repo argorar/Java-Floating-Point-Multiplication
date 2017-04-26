@@ -1,2 +1,3 @@
-# java-MultiFlPoint
-Floating point multiplication
+# Java Floating Point Multiplication
+
+Floating point multiplication in Java.
